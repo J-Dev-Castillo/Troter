@@ -1,0 +1,5 @@
+#4A455C Azul Oscuro
+#D0D0D5 Gris Claro
+#F6C516 Amarillo
+#707786 Gris Oscuro
+#4A455C Azul Oscuro tenue
