@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\assets\\img\\logos"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\img\\navbar-logo.svg",
   "PreviewInSolutionExplorer": false
 }
